@@ -1,4 +1,0 @@
-#!/bin/bash
-content="Best School\n"
-echo -e "$content" > '*\\'"Best School"'\\*$?*****:)' 
-echo "File '*\\\"Best School\"\\*\$?\*\*\*\*\*:)\" created successfully."
